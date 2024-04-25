@@ -36,5 +36,40 @@ Execute o programa compilado com o comando java Agenda.
 Contribuições
 Contribuições são bem-vindas. Por favor, siga as diretrizes de contribuição do projeto.
 
+## Como Usar
+- Execute o programa.
+- O menu principal será exibido com as opções disponíveis.
+- Escolha uma opção digitando o número correspondente e pressione Enter.
+- Siga as instruções na tela para realizar a ação desejada.
+
+### Exemplo de Saída
+
+==== Menu ====
+1. Listar tarefas
+2. Adicionar tarefa
+3. Atualizar tarefa
+4. Excluir tarefa
+5. Atualizar status da tarefa
+0. Sair
+Escolha uma opção: 1
+
+
+ ==== Tarefas ====
+1. Descrição: Estudar para prova - Status: Não concluído
+2. Descrição: Comprar leite - Status: Concluído
+
+
+## Pré-requisitos
+Java Development Kit (JDK) instalado.
+
+## Como Executar
+- Abra um terminal ou prompt de comando.
+- Navegue até o diretório onde o arquivo .java está localizado.
+- Compile o arquivo usando o comando javac Agenda.java.
+- Execute o programa compilado com o comando java Agenda.
+
+### Contribuições
+Contribuições são bem-vindas. Por favor, siga as diretrizes de contribuição do projeto.
+
 Licença
 Este projeto está licenciado sob a licença MIT. Veja o arquivo LICENSE para mais detalhes.
